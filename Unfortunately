@@ -1,0 +1,8 @@
+   echo "Unfortunately, you've run out of attempts. The secret number was {$secretNumber}.\n";
+            }
+        }
+    }
+}
+
+guessTheNumber();
+?>
